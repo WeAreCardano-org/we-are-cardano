@@ -13,6 +13,16 @@ We need to support ourselves, the blockchain, and the community.
 
 ## Plan
 
+### Projects
+
+ #. Ticketing spaces and purchasing with NFTs and PRISM with Sui.
+ #. Working with our friend who promotes the Unsigs. He wants to learn
+    Plutus, and I need to ask him to refresh my memory about what
+    precisely the application he wants to do is.
+ #. Jesse is working on a project that requires an on-chain
+    disbursement of funds mechanism. This is going to be bundled into
+    the freestyle royalties.
+
 ### Generate a Bot
 
 The bot has the name of WACBot for "We Are Cardano Bot." This is the
