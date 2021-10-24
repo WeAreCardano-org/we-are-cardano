@@ -22,6 +22,7 @@ We need to support ourselves, the blockchain, and the community.
  #. Jesse is working on a project that requires an on-chain
     disbursement of funds mechanism. This is going to be bundled into
     the freestyle royalties.
+ #. Unicorn needs multisig for his Dao.
 
 ### Generate a Bot
 
